@@ -1,0 +1,46 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.hero {
+    background-image: url(./images/hero-background.jpg);
+    background-size: cover;
+    
+}
+
+.hero > p {
+    font-weight: bold;
+}
+
+.side-navbar > div {
+    position: fixed;
+}
+
+.pics > div {
+    height: 200px;
+}
+
+.headshot {
+ height: 40px;
+ width: 40px;
+}
+
+#github {
+    fill: #181717;
+}
+
+#linkedin {
+    fill: #0A66C2;
+}
+
+.contact {
+    background-color: red;
+}
+
+.nav-link {
+    color: white;
+    border-radius: 15%;
+}
+
+
+
